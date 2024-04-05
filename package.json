@@ -1,0 +1,24 @@
+{
+  "name": "calculatorbyshubh",
+  "version": "1.0.0",
+  "description": "this is a calculator project to publish on npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubh-Rajawat/npm-calculator.git"
+  },
+  "keywords": [
+    "calculatorByShubh",
+    "calculator",
+    "arraysum"
+  ],
+  "author": "Shubh Rajawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubh-Rajawat/npm-calculator/issues"
+  },
+  "homepage": "https://github.com/Shubh-Rajawat/npm-calculator#readme"
+}
